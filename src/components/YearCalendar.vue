@@ -86,7 +86,7 @@ export default {
     },
     lang: {
       type: String,
-      default: 'en'
+      default: 'ru'
     },
     activeClass: {
       type: String,
