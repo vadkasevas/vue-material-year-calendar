@@ -192,7 +192,7 @@ export default {
     }
   },
   created () {
-    this.isUsingString = this.activeDates.length && typeof this.activeDates[0] === 'string'
+    //this.isUsingString = this.activeDates.length && typeof this.activeDates[0] === 'string'
   }
 }
 </script>
